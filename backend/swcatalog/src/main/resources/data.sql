@@ -1,0 +1,10 @@
+INSERT INTO tb_category (name) values('Books');
+INSERT INTO tb_category (name) values('Notebooks');
+INSERT INTO tb_category (name) values('Tables');
+INSERT INTO tb_category (name) values('Papers');
+INSERT INTO tb_category (name) values('Dolls');
+INSERT INTO tb_category (name) values('pens');
+INSERT INTO tb_category (name) values('pencil');
+INSERT INTO tb_category (name) values('electronics');
+INSERT INTO tb_category (name) values('shoes');
+INSERT INTO tb_category (name) values('clothes');
